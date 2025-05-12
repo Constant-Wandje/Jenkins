@@ -1,3 +1,2 @@
 # Jenkin
-Bon ok, c'est comme si ca fonctionne !
-
+C'est quoi le pb encore bon sang
